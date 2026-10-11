@@ -1,0 +1,6 @@
+---------------- scoreboard ----------------
+cycles checked : 202
+errors         : 0
+full cycles    : 19
+--------------------------------------------
+[ENV] TEST PASSED
