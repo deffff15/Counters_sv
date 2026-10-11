@@ -234,7 +234,7 @@ module tb_Licznik;
  
     licznik_if #(WIDTH) vif (clk);
  
-    Licznik #(.WIDTH(WIDTH)) dut (
+    counter_up_down #(.WIDTH(WIDTH)) dut (
         .clk      (clk),
         .rst_n    (vif.rst_n),
         .enable   (vif.enable),

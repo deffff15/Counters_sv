@@ -1,3 +1,4 @@
+`timescale 1ns/1ps
 module counter_up_down #(
     parameter int WIDTH = 4 // we can change this parameter 
 )(
