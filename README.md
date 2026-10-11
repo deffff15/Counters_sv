@@ -1,2 +1,4 @@
-# Counters_sv
-Different counters made in systemverilog, all of them has been tested in real fpga board
+Hello Dear friend,
+These are my counter projects, you can use them whenever you want.
+Here is the current list of counters you can see here:
+-Counter_up_down
