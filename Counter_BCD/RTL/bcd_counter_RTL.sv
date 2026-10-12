@@ -1,3 +1,4 @@
+`timescale 1ns/1ps
 module BCD #(
     parameter WIDTH = 4
 )(
