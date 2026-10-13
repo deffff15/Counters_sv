@@ -1,0 +1,7 @@
+--------------- LFSR scoreboard ---------------
+cycles checked : 152
+errors         : 0
+shifts         : 119
+holds          : 33
+-----------------------------------------------
+[ENV] TEST PASSED
