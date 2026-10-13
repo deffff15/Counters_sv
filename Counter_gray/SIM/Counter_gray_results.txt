@@ -1,0 +1,8 @@
+------------- Gray counter scoreboard -------------
+cycles checked : 152
+errors         : 0
+increments     : 119
+holds          : 33
+wraps          : 7
+----------------------------------------------------
+[ENV] TEST PASSED
