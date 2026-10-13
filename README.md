@@ -5,3 +5,5 @@ Here is the current list of counters you can see here:
 -Counter_johnson
 -Counter_ring
 -Counter_BCD
+-Counter_gray
+-Counter_LFSR
