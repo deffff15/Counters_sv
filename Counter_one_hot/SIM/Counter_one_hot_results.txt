@@ -1,8 +1,0 @@
----------------- scoreboard ----------------
-cycles checked      : 302
-errors              : 0
-FIRST -> POSITIVE   : 38
-FIRST -> NEGATIVE   : 39
-resets mid-sequence : 12
---------------------------------------------
-[ENV] TEST PASSED
