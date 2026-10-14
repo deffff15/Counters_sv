@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_nmodule_counter_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="\$unit_rtl_sv_3096229780 " />
+            <top_module name="glbl" />
+            <top_module name="tb_nmodule_counter" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="999,993 ps"></ZoomStartTime>
+      <ZoomEndTime time="1,000,002 ps"></ZoomEndTime>
+      <Cursor1Time time="1,000,000 ps"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="76"></NameColumnWidth>
+      <ValueColumnWidth column_width="66"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="4" />
+   <wvobject type="logic" fp_name="/tb_nmodule_counter/clk">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_nmodule_counter/vif/rst_n">
+      <obj_property name="ElementShortName">rst_n</obj_property>
+      <obj_property name="ObjectShortName">rst_n</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_nmodule_counter/vif/enable">
+      <obj_property name="ElementShortName">enable</obj_property>
+      <obj_property name="ObjectShortName">enable</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_nmodule_counter/vif/modulo_Wy">
+      <obj_property name="ElementShortName">modulo_Wy[1:0]</obj_property>
+      <obj_property name="ObjectShortName">modulo_Wy[1:0]</obj_property>
+   </wvobject>
+</wave_config>
